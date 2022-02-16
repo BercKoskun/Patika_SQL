@@ -1,4 +1,4 @@
-select title, description from film;
+select title1, title2 from film;
 
 select*from film where (length>60 and length<75);
 
