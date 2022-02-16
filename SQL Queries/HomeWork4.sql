@@ -10,4 +10,4 @@ select count(*) from country
 where country like '_____';
 --City tablosundaki şehir isimlerinin kaç tanesi 'R' veya r karakteri ile biter?
 select count(*) from city
-where city Ilike '%R'
+where city Ilike '%R';
